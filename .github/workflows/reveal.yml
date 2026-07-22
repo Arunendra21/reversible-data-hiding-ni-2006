@@ -15,7 +15,7 @@ jobs:
       - name: release the next piece from the vault branch
         run: |
           set -e
-          START="2026-07-23"
+          START="2026-07-22"
           TODAY=$(date -u +%Y-%m-%d)
           if [[ "$TODAY" < "$START" ]]; then echo "not started until $START"; exit 0; fi
           git config user.name "Arunendra21"
