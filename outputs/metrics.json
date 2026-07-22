@@ -1,0 +1,186 @@
+{
+  "lena": {
+    "1": {
+      "capacity_bits": 2745,
+      "bpp": 0.01047,
+      "psnr": 53.777,
+      "ssim": 0.9998,
+      "reversible": true
+    },
+    "3": {
+      "capacity_bits": 6790,
+      "bpp": 0.0259,
+      "psnr": 44.239,
+      "ssim": 0.99855,
+      "reversible": true
+    },
+    "5": {
+      "capacity_bits": 10771,
+      "bpp": 0.04109,
+      "psnr": 39.771,
+      "ssim": 0.99651,
+      "reversible": true
+    }
+  },
+  "baboon": {
+    "1": {
+      "capacity_bits": 2772,
+      "bpp": 0.01057,
+      "psnr": 50.414,
+      "ssim": 0.99982,
+      "reversible": true
+    },
+    "3": {
+      "capacity_bits": 8117,
+      "bpp": 0.03096,
+      "psnr": 40.904,
+      "ssim": 0.99856,
+      "reversible": true
+    },
+    "5": {
+      "capacity_bits": 10846,
+      "bpp": 0.04137,
+      "psnr": 36.471,
+      "ssim": 0.99615,
+      "reversible": true
+    }
+  },
+  "barbara": {
+    "1": {
+      "capacity_bits": 2456,
+      "bpp": 0.00937,
+      "psnr": 52.028,
+      "ssim": 0.99978,
+      "reversible": true
+    },
+    "3": {
+      "capacity_bits": 6044,
+      "bpp": 0.02306,
+      "psnr": 42.489,
+      "ssim": 0.99822,
+      "reversible": true
+    },
+    "5": {
+      "capacity_bits": 6965,
+      "bpp": 0.02657,
+      "psnr": 38.061,
+      "ssim": 0.99505,
+      "reversible": true
+    }
+  },
+  "airplane": {
+    "1": {
+      "capacity_bits": 7875,
+      "bpp": 0.03004,
+      "psnr": 54.131,
+      "ssim": 0.99956,
+      "reversible": true
+    },
+    "3": {
+      "capacity_bits": 22971,
+      "bpp": 0.08763,
+      "psnr": 44.316,
+      "ssim": 0.99723,
+      "reversible": true
+    },
+    "5": {
+      "capacity_bits": 33510,
+      "bpp": 0.12783,
+      "psnr": 39.78,
+      "ssim": 0.99332,
+      "reversible": true
+    }
+  },
+  "house": {
+    "1": {
+      "capacity_bits": 72978,
+      "bpp": 0.27839,
+      "psnr": 55.624,
+      "ssim": 0.9988,
+      "reversible": true
+    },
+    "3": {
+      "capacity_bits": 72978,
+      "bpp": 0.27839,
+      "psnr": 55.624,
+      "ssim": 0.9988,
+      "reversible": true
+    },
+    "5": {
+      "capacity_bits": 72978,
+      "bpp": 0.27839,
+      "psnr": 55.624,
+      "ssim": 0.9988,
+      "reversible": true
+    }
+  },
+  "lake": {
+    "1": {
+      "capacity_bits": 3750,
+      "bpp": 0.01431,
+      "psnr": 53.639,
+      "ssim": 0.99972,
+      "reversible": true
+    },
+    "3": {
+      "capacity_bits": 6447,
+      "bpp": 0.02459,
+      "psnr": 44.159,
+      "ssim": 0.99771,
+      "reversible": true
+    },
+    "5": {
+      "capacity_bits": 10282,
+      "bpp": 0.03922,
+      "psnr": 39.718,
+      "ssim": 0.99458,
+      "reversible": true
+    }
+  },
+  "man": {
+    "1": {
+      "capacity_bits": 5018,
+      "bpp": 0.01914,
+      "psnr": 48.172,
+      "ssim": 0.99727,
+      "reversible": true
+    },
+    "3": {
+      "capacity_bits": 8784,
+      "bpp": 0.03351,
+      "psnr": 38.655,
+      "ssim": 0.98488,
+      "reversible": true
+    },
+    "5": {
+      "capacity_bits": 9712,
+      "bpp": 0.03705,
+      "psnr": 34.227,
+      "ssim": 0.97097,
+      "reversible": true
+    }
+  },
+  "peppers": {
+    "1": {
+      "capacity_bits": 13179,
+      "bpp": 0.05027,
+      "psnr": 62.957,
+      "ssim": 0.99979,
+      "reversible": true
+    },
+    "3": {
+      "capacity_bits": 24205,
+      "bpp": 0.09233,
+      "psnr": 60.785,
+      "ssim": 0.99969,
+      "reversible": true
+    },
+    "5": {
+      "capacity_bits": 34103,
+      "bpp": 0.13009,
+      "psnr": 57.026,
+      "ssim": 0.99942,
+      "reversible": true
+    }
+  }
+}
